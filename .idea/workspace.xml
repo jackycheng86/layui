@@ -2,8 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d156bf5-ba6d-4f50-b266-1938a8ecd79f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/query/query.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/awesomeStyle/awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/awesomeStyle/awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/awesomeStyle/fa.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/awesomeStyle/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/metroStyle/img/line_conn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/metroStyle/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/metroStyle/img/metro.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/metroStyle/img/metro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/metroStyle/metroStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/zTreeStyle/img/diy/1_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/zTreeStyle/img/diy/1_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/zTreeStyle/img/diy/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/zTreeStyle/img/diy/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/zTreeStyle/img/diy/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/zTreeStyle/img/diy/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/zTreeStyle/img/diy/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/zTreeStyle/img/diy/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/zTreeStyle/img/diy/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/zTreeStyle/img/diy/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/zTreeStyle/img/line_conn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/zTreeStyle/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/zTreeStyle/img/zTreeStandard.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/zTreeStyle/img/zTreeStandard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/css/zTreeStyle/zTreeStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/js/jquery-1.4.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/js/jquery.ztree.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/js/jquery.ztree.all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/js/jquery.ztree.core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/js/jquery.ztree.core.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/js/jquery.ztree.excheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/js/jquery.ztree.excheck.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/js/jquery.ztree.exedit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/js/jquery.ztree.exedit.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/js/jquery.ztree.exhide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zTree/js/jquery.ztree.exhide.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/query.html" beforeDir="false" afterPath="$PROJECT_DIR$/query/query.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,12 +51,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/query/query.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            <state relative-caret-position="145">
+              <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/zTree/css/demo.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -66,6 +111,55 @@
             <path>
               <item name="layui" type="b2602c69:ProjectViewProjectNode" />
               <item name="layui" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="layui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="layui" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="zTree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="layui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="layui" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="zTree" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="layui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="layui" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="zTree" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="awesomeStyle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="layui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="layui" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="zTree" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="metroStyle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="layui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="layui" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="zTree" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="zTreeStyle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="layui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="layui" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="zTree" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="layui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="layui" type="462c0819:PsiDirectoryNode" />
               <item name="query" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -79,10 +173,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/zTree" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/zTree" />
       <recent name="$PROJECT_DIR$/lib" />
     </key>
   </component>
@@ -98,6 +193,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="query.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63344/layui/query/query.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.query.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -109,6 +214,7 @@
       <option name="presentableId" value="Default" />
       <updated>1558082678742</updated>
       <workItem from="1558082681160" duration="1483000" />
+      <workItem from="1558148348612" duration="3582000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1558082997916</created>
@@ -121,19 +227,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1483000" />
+    <option name="totallyTimeSpent" value="5065000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="50" y="0" width="2516" height="1446" extended-state="6" />
+    <frame x="66" y="0" width="2516" height="1432" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13652986" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16093813" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -141,6 +243,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -156,8 +262,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/query/query.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        <state relative-caret-position="145">
+          <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/zTree/css/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
         </state>
       </provider>
     </entry>
